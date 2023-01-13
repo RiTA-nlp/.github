@@ -5,7 +5,7 @@ La community Risorse per la Lingua Italiana (RiTA) nasce con lo scopo di avvicin
 ### Quindi, che facciamo, chi siamo, da dove veniamo? (due fior… no eh)
 
 RiTA nasce per fornire una community NLP Italiana in cui chiunque sia interessata/o possa confrontarsi con gente altrettanto interessata e curiosa.
-Oltre al confronto, che speriamo favorisca nuove idee e collaborazioni, RiTA ha anche un obiettivo ambizioso di fondo: creare nuove risorse in modo collaborativo, senza vincoli di affiliazione ma per il piacere di lavorare in comunità.
+Oltre al confronto, che speriamo favorisca nuove idee e collaborazioni, RiTA ha anche un obiettivo ambizioso di fondo: **creare nuove risorse in modo collaborativo, senza vincoli di affiliazione ma per il piacere di lavorare in comunità.**
 
 RiTA è aperta a chiunque sia interessata/o ai temi NLP in generale, da chi studia da autodidatta a chi lavora nel settore da 20 anni, dal/la linguista all’ingegnere informatico, dal/la dottoranda/o al professore o professoressa.
 
@@ -15,8 +15,8 @@ Fortunatamente, da nessuna parte. Hai solo bisogno di unirti alla nostra communi
 
 ### Cosa intendete per Risorse?
 
-Immaginiamo RiTA come un grande calderone di iniziative di cui il risultato principale sarà una o più risorse per la community NLP italiana. 
-Con “risorsa” intendiamo: un dataset, un modello, una mini-corso introduttivo ed educativo, un reading-group. Probabilmente siamo stati poco originali, ma siamo apertissimi ad altre idee!
+Immaginiamo RiTA come un grande calderone di iniziative, che chiamiamo "**sprint**" di cui il risultato principale sarà una o più risorse per la community NLP italiana. 
+Con “**risorsa**” intendiamo: un dataset, un modello, una mini-corso introduttivo ed educativo, un reading-group. Probabilmente siamo stati poco originali, ma siamo apertissimi ad altre idee!
 
 Pensiamo che queste “iniziative”, dopo essere state proposte, discusse e passate da una revisione del team di gestione debbano avere un piano temporale: un momento in cui iniziano, in cui ci si lavora, e in cui finiscono.
 
@@ -24,7 +24,7 @@ Ne discutiamo sul nostro Discord ⬆️, in cui c’è la lista degli sprint att
 
 ### 📄 Regole ed organizzazione
 
-Gran parte delle regole per una buona convivenza saranno ripetute all’ingresso del server Discord ma è bene ricordare che incoraggiamo un atteggiamento costruttivo e propositivo, richiederemo il rispetto di alcune regole in chat e non accettiamo alcun tipo di comportamento tossico, che sarà bandito.
+Gran parte delle regole per una buona convivenza saranno ripetute all’ingresso del server Discord ma è bene ricordare che incoraggiamo un atteggiamento costruttivo e propositivo, richiederemo il rispetto di alcune regole in chat e **non accettiamo alcun tipo di comportamento tossico, che sarà bandito.**
 
 Come è chiaro, gran parte delle attività saranno organizzate e gestite tramite un server Discord. Auspichiamo di arrivare ad organizzare dei meetup in persona, verosimilmente a cavallo di Milano e Torino, ma è un futuro più remoto che prossimo.
 
