@@ -30,6 +30,10 @@ Come è chiaro, gran parte delle attività saranno organizzate e gestite tramite
 
 La community nasce sotto lo spirito dell’open-source, per cui ci aspettiamo che gran parte del codice e delle risorse computazionali prodotte siano rilasciate per il beneficio di tutta la community.
 
+### 🚨 Disclaimer
+
+Partecipando al progetto, accetti che RiTA non sarà ritenuta in alcun modo responsabile per l'eventuale impossibilità di utilizzare la piattaforma o per qualsiasi reclamo derivante dalla mancata applicazione delle presenti Condizioni. Nello specifico, RiTA non sarà ritenuta responsabile per quanto segue: danni indiretti, speciali, incidentali, consequenziali o esemplari; danni diretti o indiretti per perdita di avviamento, interruzione di attività, perdita di profitti, perdita di dati, guasto o malfunzionamento di computer.
+
 ### FAQ
 
 Q: RiTA è un ente fiscale, o una no-profit, o è supportata da un’organizzazione pubblica o privata? \
