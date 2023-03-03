@@ -4,7 +4,7 @@ La community Risorse per la Lingua Italiana (RiTA) nasce con lo scopo di avvicin
 
 Sai già tutto? Naviga, allora, sulla nostra [🏠 home](https://github.com/RiTA-nlp/home) 
 
-### Quindi, che facciamo, chi siamo, da dove veniamo? (due fior… no eh)
+### Quindi, che facciamo, chi siamo, da dove veniamo? (un fiorin… no eh)
 
 RiTA nasce per fornire una community NLP Italiana in cui chiunque sia interessata/o possa confrontarsi con gente altrettanto interessata e curiosa.
 Oltre al confronto, che speriamo favorisca nuove idee e collaborazioni, RiTA ha anche un obiettivo ambizioso di fondo: **creare nuove risorse in modo collaborativo, senza vincoli di affiliazione ma per il piacere di lavorare in comunità.**
