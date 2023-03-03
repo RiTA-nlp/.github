@@ -2,6 +2,8 @@
 
 La community Risorse per la Lingua Italiana (RiTA) nasce con lo scopo di avvicinare appassionate/i e professioniste/i della linguistica computazionale italiana e di creare nuove collaborazioni per la costruzione di risorse per la nostra meravigliosa lingua. 
 
+Sai già tutto? Naviga, allora, sulla nostra [🏠 home](https://github.com/RiTA-nlp/home) 
+
 ### Quindi, che facciamo, chi siamo, da dove veniamo? (due fior… no eh)
 
 RiTA nasce per fornire una community NLP Italiana in cui chiunque sia interessata/o possa confrontarsi con gente altrettanto interessata e curiosa.
@@ -48,6 +50,8 @@ A: 🤷 : l’obiettivo non è quello di limitare l’uso di termini anglofoni o
 Q: Ma non ci avete detto chi siete. Chi siete? \
 A: Due ricercatori italiani, [Giuseppe](https://gattanasio.cc/) e [Moreno](https://www.mlaquatra.me/).
 
+
+### Ok, ora è davvero il caso di navigare sulla nostra [🏠 home](https://github.com/RiTA-nlp/home)
 
 <!--
 
